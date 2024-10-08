@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**awgkuaaniq/awgkuaaniq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Aniq! 👻
 
-Here are some ideas to get you started:
+## About Me 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a final year Software Engineering student based in Universiti Malaya. Born in 21st of April, 2002 at Sarawak, I developed a passion for the field of technology and computers which led me to my journey for education far away from home.
+
+## Things I Love 👀
+
+- I support **Tottenham Hotspurs**! ![Static Badge](https://img.shields.io/badge/COYS-white?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAC0AAABYCAMAAABWK47aAAABI1BMVEUAAAAAF1QAHVgAHFgAHFgAG1gAG1gAHFgAHFj%2F%2F%2F8AG1f%2F%2F%2F8AG1j%2F%2F%2F8AHFgAHFcAHVgAHFj%2F%2F%2F93haXb3%2BcAHFmapb2zu81ufaCrs8ff4%2BvBx9X%2F%2F%2F%2F%2F%2F%2F8AG1WAjqrGzNpmdpuAjqxbbZSAjqvN0t2%2Fx9X%2F%2F%2F%2FU2ONmd5uSnreSnbfM0d4AHVgAG1i2vs%2FMz9xVZ4%2Fa3ucAG1eirMKAjqyOmrXh5esAHlkAIFoAG1qJlbFVaY%2Ft7vK1vc7Y2%2BWJlrJ2hKSeqL6Vn7mWoLhre57S1uC7wtK7wNKAjayqs8YAHFggOG3%2F%2F%2F8QKmJgcZeQm7WvuMuAjatAVYIwR3efqcBAVIFwf6FQY4zg4%2Bq%2FxtVQYozv8fXP1N%2BvuMqgqsBwgKEyjx%2B1AAAAS3RSTlMAECBAgN%2BQwHAgUBBgQO%2BwYJ8w73DPoKDfv4B%2FYFAw35Dv39%2FAn4BwYO%2Ff36CgoHBQ79%2FPsLCQf18wMO%2Fv4ODQ0NDPwL%2B%2Fr6%2Bvn5AEiyisAAAD%2FElEQVRIx6SVTU%2FCQBCG92qaXloCFSEUqXwnQCJ48Oi37%2BzWWFIKYvT%2F%2FwqXlCxF1mYSn1OTPpnOvDvNin9wdjNvBffhGUvuzQD1vqKApbuViJC9bZeR4FFfQslN4jL1KkhKqjDtJq2lTGrcWBJtx1Wm7e7sD67dh9SdcO1RurNDnnxBX9qmOq%2FrDFttqyYrkADQQ66XLqtpAN9Sfqbe0QefrXszIWji9SYtvJ4GCgub3UGOKthXBMC3Hjr2kJmypgCk15ZWXmGom0ChGXYsW3YOg%2B%2FkGcXIeTm1IxhUXnyMPZe21T6QuMWx0T61QxQYeDpoM3ZsOXY60idOFca2hOKjCGXKPKcWu0%2BwoAbzsOuIsgwNdPfnhjkt%2FGJWKVvZEY7wPVGGMyYcyLRcziQ2MnUZP5BpfigYOI%2BUl3YFiy6Z0hyeoKlwbacNpJ7gsgBiwaahsOLbLiF22HaToHpsuweYm411%2FTSEmE55dgu3jfAh87hDAsrvCxYRfhgtY52GgRgMd40QS1sRlcBAUDamLszMv3W2L3e9NKFp3%2F8piKgUaCSn%2BeZPluX%2FzjJ95duFQ9kS8sWxfwbgeZm6fdo4ALtFdu7wC5VFdj%2BVhJH3eyOpFP%2BgYr4NIQy4TmKMvXSzelELgE6FCQPE0r%2BacsZCaFp2GKG9mdAHTkEvuMG%2Ba%2FaelDDBmvuaPTymvJnvzuPEmHAwMnrhGInbiU%2BPhh0RAfA5Bgx4PcdE5lZZJ%2Bi1nG9T8EyO6j40D%2BZ%2B8jWuBDlGTZJIypXBbpDGdoVU9VuPlX3cQcccWxcabkSy1aLiGtPB%2B2plkm1w%2BRugq7ku5z7y%2BqfUcleRI4aCaN2nLkKWulkGJ2ZCZzPJOthd%2FMKpksUY%2F%2F%2Bn%2BDJeemfsxokPiG5Bqaok6MfdfP6xyfdfV9quvjn5t76Zf3sVV2yMlbdjfP%2Fx%2B%2FPPi%2Fbu6rE%2FTsELYaxEm%2F7dhy%2BfPn99%2B2arzM6wzi%2BTviDuNbBPYzI7qt%2F%2F9jMHT4ZXDcEfyBFmJGWOeliRiBHOeVcaTEM9jsxMBKrVMRw6Bs5iLnXbpiDtZQLoVcoatQtO1dAO0DpVghdsRCVz%2BABoEjIFh87OM3RSEe6x4JrFl1TkkA6UoXC3ggwwcUAIf0GTgSi5qgEryuQROKXNjjQH5%2FAVMKGnFZS2AQYSujXneaRtWVMVeZVQq3yr9oJWsAOJnyX732DBRZ%2BKKskWwhDNZlEwKq5pRjrZFqjWMvRBvY2hVidJpynGN3Gpa0XmZZOHejmUk8NqF%2BqSidOvizPBFilACWTJmCvp%2Bmic09KigytuWZgOYGOahLyumUVYsrNQEHZg9UfIBB4Qa7OLhwr%2BBUtqQpkb4T%2F5BSt%2FFl0KHFQ7AAAAAElFTkSuQmCC)
+
+- I enjoy good fragrances! 😤
+
+## Expectations For The Course
+
+- Improve software by cleaning code without altering functionality
+
+- Understand the importance of maintaining clear and up-to-date documentation
+
+- Explore strategies for gradual system upgrades to meet changing requirements.
+
